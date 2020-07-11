@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter application.
+This is the well-known I Am rich App created using Flutter
 
 ## Getting Started
 
